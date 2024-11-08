@@ -23,6 +23,7 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "The HussarOne greets you from PlaygroundOne!" << std::endl;
     return 0;
-    
 }
